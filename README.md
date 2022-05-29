@@ -35,8 +35,8 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 ## PROGRAM:
 ```
 Program to implement binary classification.
-Developed by: J Vincent isaac jeyaraj
-Register Number: 212220230060
+Developed by: Arunkumar.R
+Register Number: 212220233001
 ```
 ```python
 from numpy import where
